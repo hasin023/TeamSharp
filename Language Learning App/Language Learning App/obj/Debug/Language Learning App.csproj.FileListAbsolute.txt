@@ -36,3 +36,5 @@ E:\GitCollaboration\TeamSharp\Language Learning App\Language Learning App\obj\De
 E:\GitCollaboration\TeamSharp\Language Learning App\Language Learning App\obj\Debug\Language Learning App.csproj.CopyComplete
 E:\GitCollaboration\TeamSharp\Language Learning App\Language Learning App\obj\Debug\Language Learning App.exe
 E:\GitCollaboration\TeamSharp\Language Learning App\Language Learning App\obj\Debug\Language Learning App.pdb
+E:\GitCollaboration\TeamSharp\Language Learning App\Language Learning App\obj\Debug\Menu.g.cs
+E:\GitCollaboration\TeamSharp\Language Learning App\Language Learning App\obj\Debug\Menu.baml

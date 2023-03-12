@@ -10,18 +10,18 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace Language_Learning_App
 {
-    public partial class MainWindow : Window
+    /// <summary>
+    /// Interaction logic for Menu.xaml
+    /// </summary>
+    public partial class Menu : Window
     {
-        public MainWindow()
+        public Menu()
         {
             InitializeComponent();
-            this.Hide();
-            new Login().Show();
         }
     }
 }
